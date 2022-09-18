@@ -1,0 +1,39 @@
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\bin\Debug\projAutomoveis.exe.config
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\bin\Debug\projAutomoveis.exe
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\bin\Debug\projAutomoveis.pdb
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.frmmenu.resources
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.frmcaminhao.resources
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.frmcarro.resources
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.Properties.Resources.resources
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.exe
+C:\Users\andre\source\repos\projAutomoveis\projAutomoveis\obj\Debug\projAutomoveis.pdb
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\bin\Debug\projAutomoveis.exe.config
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\bin\Debug\projAutomoveis.exe
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\bin\Debug\projAutomoveis.pdb
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.csproj.AssemblyReference.cache
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.frmmenu.resources
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.frmcaminhao.resources
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.frmcarro.resources
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.Properties.Resources.resources
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.csproj.GenerateResource.cache
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.exe
+C:\Users\luizm\OneDrive\Área de Trabalho\MATERIAS LEO\Leo_Rog_Automoveis-TPA-main\projAutomoveis\obj\Debug\projAutomoveis.pdb
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\bin\Debug\projAutomoveis.exe.config
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\bin\Debug\projAutomoveis.exe
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\bin\Debug\projAutomoveis.pdb
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.csproj.AssemblyReference.cache
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.frmmenu.resources
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.frmcaminhao.resources
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.frmcarro.resources
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.Properties.Resources.resources
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.csproj.GenerateResource.cache
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.exe
+C:\Users\lauan\Downloads\projeto_carro_caminhao-main\carro_caminhão.luizeyasmim\projAutomoveis\obj\Debug\projAutomoveis.pdb
